@@ -1,3 +1,1 @@
 @import "EXT:vt13sitepackage/Configuration/Sets/vt13sitepackage/TypoScript/*.typoscript"
-
-@import "EXT:sourceopt/Configuration/TypoScript/setup.typoscript"
