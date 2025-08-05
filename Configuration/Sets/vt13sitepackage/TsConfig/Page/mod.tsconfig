@@ -16,3 +16,5 @@ mod.web_list.downloadPresets {
 
 # Set the default search level to "infinite levels"
 mod.web_list.searchLevel.default = -1
+
+mod.linkvalidator.linktypes = db,file,external
